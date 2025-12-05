@@ -1,11 +1,17 @@
 ---
-title: "Kaan Sevim, PhD"
-pagetitle: "Kaan Sevim, PhD"
-subtitle: "İstanbul Sabahattin Zaim Üniversitesi / Sosyal Hizmet"
-image: _site/img/skyline-philly-dual.png
-image-alt: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"
+title: "Blog"
+format:
+  html:
+    css: /assets/blog-reset.css
+listing:
+  contents: 
+    - "*/index.qmd"
+  fields: [image, date, title, description, categories]
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
-
-**Kaan Sevim is an Assistant Professor of Social Work at Istanbul Sabahattin Zaim University. His competency areas include social work, migration, aging studies, and discrimination research, with a focus on the stigmatization and exclusion of migrants and older adults. He also serves as the Editor-in-Chief of the Turkish Journal of Social Work.**
-
-**He collaborates with international organizations such as the International Organization for Migration (IOM) and the International Centre for Migration Policy Development (ICMPD), conducting research on migrant satisfaction, reintegration, policy impacts, and quantitative analysis of social exclusion. Previously, he worked as a social worker at an Elderly Services Center and interned with the Association for Solidarity with Asylum Seekers and Migrants (SGDD-ASAM), supporting refugee communities.**

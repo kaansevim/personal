@@ -1,0 +1,7 @@
+---
+title: "Batılı Bilginin Eleştirisi Üzerine Kitap Analizi"
+date: "2025-12-05"
+author: "Kaan Sevim"
+categories: [Blog, Book Review]
+image: ""
+---

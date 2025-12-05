@@ -1,14 +1,17 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   preview: 
     port: 5896
     browser: true
+  resources: 
+    - files/cv.pdf
+    - img/skyline.png
 
 website:
   title: "kaansevim"
-  description: "Akademisyen | Sosyal Hizmet Uzmanı | Göç ve Yaşlılık"
-  image: img/skyline-philly-dual.png
+  description: "Academic | Social Worker | Migration and Aging"
+  image: /img/skyline.png
   search: 
     location: navbar
     type: overlay

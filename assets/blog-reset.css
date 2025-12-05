@@ -1,0 +1,22 @@
+/* Reset styles for listing pages to avoid blog-post.css inheritance */
+#quarto-document-content {
+    font-family: unset;
+    font-size: unset;
+    line-height: unset;
+    color: unset;
+}
+
+#quarto-document-content h1,
+#quarto-document-content h2,
+#quarto-document-content h3,
+#quarto-document-content h4,
+#quarto-document-content h5,
+#quarto-document-content h6 {
+    font-family: unset;
+    margin-top: unset;
+    margin-bottom: unset;
+}
+
+#quarto-document-content p {
+    margin-bottom: unset;
+}

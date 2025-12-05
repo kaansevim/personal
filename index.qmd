@@ -3,31 +3,29 @@ title: "Kaan Sevim, PhD"
 pagetitle: "Kaan Sevim"
 subtitle: "Istanbul Sabahattin Zaim University <br> Department of Social Work"
 image: img/Vesikalık.png
+format:
+  html:
+    css: assets/homepage.css
 
 
 about:
   template: trestles
   links:
     - text: '<i class="ai ai-cv fa-lg"></i>'
-      href: https://jhelvy.com/cv
+      href: files/cv.pdf
     - icon: github
-      href: https://github.com/jhelvy
-    - text: '<i class="fa fa-brands fa-bluesky"></i>'
-      href: https://bsky.app/profile/jhelvy.bsky.social
+      href: https://github.com/kaansevim
     - icon: linkedin
-      href: https://www.linkedin.com/in/jhelvy/
+      href: https://tr.linkedin.com/in/kaan-sevim-43043875
     - text: '<i class="ai ai-google-scholar fa-lg"></i>'
-      href: https://scholar.google.com/citations?user=DY2D56IAAAAJ
+      href: https://scholar.google.com/citations?user=bSGY8DsAAAAJ&hl=tr&oi=ao
     - text: '<i class="ai ai-researchgate fa-lg"></i>'
-      href: https://www.researchgate.net/profile/John_Helveston
+      href: https://www.researchgate.net/profile/Kaan-Sevim
     - text: '<i class="ai ai-orcid fa-lg"></i>'
-      href: https://orcid.org/0000-0002-2657-9191
-
+      href: https://orcid.org/0000-0002-5697-2074
 ---
 
-<br><br>
-
 ::: {#hero-heading}
-Kaan Sevim is an Assistant Professor of **Social Work** at Istanbul Sabahattin Zaim University. My competency areas include social work, migration, aging studies, and discrimination research, with a focus on the stigmatization and exclusion of migrants and older adults. I also serves as the Editor-in-Chief of the Turkish Journal of Social Work.
-[Learn more about me →](/about){.about-links .subtitle}
+<div class="mt-5"></div>
+Kaan Sevim is an Assistant Professor of **Social Work** at Istanbul Sabahattin Zaim University. My competency areas include social work, migration, aging studies, and discrimination research, with a focus on the stigmatization and exclusion of migrants and older adults. I also serves as the Editor-in-Chief of the Turkish Journal of Social Work. [Learn more about me →](/about){.about-links .subtitle}
 :::

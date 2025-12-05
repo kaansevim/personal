@@ -1,0 +1,6 @@
+---
+title: "Social Work Theories with Individuals"
+date: "2025-12-05"
+categories: [Course]
+image: ""
+---

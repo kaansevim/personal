@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/batili-bilginin-elestirisi/index.html",
+      "/blog/bilimin-tiranligi-kitap-elestirisi/index.html",
+      "/blog/hurriyet-js-mill-kitap-elestirisi/index.html",
+      "/blog/uzak-film-analizi/index.html"
+    ]
+  },
+  {
+    "listing": "/lessons/index.html",
+    "items": [
+      "/lessons/critical-thinking-in-social-work/index.html",
+      "/lessons/research-methods/index.html",
+      "/lessons/social-work-ethics-and-values/index.html",
+      "/lessons/social-work-theories-with-individuals/index.html",
+      "/lessons/social-work-with-immigrants-and-refugees/index.html"
+    ]
+  }
+]

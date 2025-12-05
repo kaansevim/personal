@@ -1,0 +1,25 @@
+/* Medium-like Article Styling for Blog Posts */
+@import"https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap";
+
+#quarto-document-content {
+    font-family: "Merriweather", Georgia, serif;
+    font-size: 1.25rem;
+    /* ~20px */
+    line-height: 1.8;
+    color: #292929;
+}
+
+#quarto-document-content h1,
+#quarto-document-content h2,
+#quarto-document-content h3,
+#quarto-document-content h4,
+#quarto-document-content h5,
+#quarto-document-content h6 {
+    font-family: "Raleway", sans-serif;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+#quarto-document-content p {
+    margin-bottom: 1.5em;
+}

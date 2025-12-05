@@ -1,0 +1,7 @@
+---
+title: "Bilimin Tiranlığı Kitap Eleştirisi"
+date: "2025-12-05"
+author: "Kaan Sevim"
+categories: [Blog, Book Review]
+image: ""
+---

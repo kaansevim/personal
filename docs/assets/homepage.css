@@ -1,0 +1,17 @@
+/* Homepage Watermark */
+body::after {
+    content: "";
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 60%;
+    max-width: 600px;
+    height: 500px;
+    background-image: url("../img/skyline.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.20;
+    z-index: -1;
+    pointer-events: none;
+}

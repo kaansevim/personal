@@ -12,7 +12,7 @@ about:
   template: trestles
   links:
     - text: '<i class="ai ai-cv fa-lg"></i>'
-      href: "files/cv.pdf"
+      href: https://kaansevim.github.io/personal/files/cv.pdf
     - icon: github
       href: https://github.com/kaansevim
     - icon: linkedin

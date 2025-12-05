@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  preview: 
+    port: 5896
+    browser: true
+
+website:
+  title: "kaansevim"
+  description: "Akademisyen | Sosyal Hizmet Uzmanı | Göç ve Yaşlılık"
+  image: img/skyline-philly-dual.png
+  search: 
+    location: navbar
+    type: overlay
+  back-to-top-navigation: false
+  navbar:
+    right:
+      - text: About
+        href: about/index.qmd
+      - text: Lessons
+        href: lessons/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Publications
+        href: publications/index.qmd
+  page-footer:  
+    left: >-
+     &#169; 2025 Kaan Sevim &#8729; Made with [Quarto](https://quarto.org)
+
+
+format:
+  html:
+    theme: [default, assets/theme.scss]
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    # This is to include fontawesome and academic icons in the headers:
+    include-in-header: "_includes/header.html"
+

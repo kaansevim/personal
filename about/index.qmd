@@ -1,8 +1,8 @@
 ---
 title: "Kaan Sevim, PhD"
 pagetitle: "Kaan Sevim, PhD"
-subtitle: "İstanbul Sabahattin Zaim Üniversitesi / Sosyal Hizmet"
-image: /img/skyline-philly-dual.png
+subtitle: "Istanbul Sabahattin Zaim University/Social Work"
+image: "./img/skyline.png"
 image-alt: "Abstract data visualization depicting tall buildings in Philadelphia as a circle. The text inside the circle reads Philadelphia Skyline"
 ---
 

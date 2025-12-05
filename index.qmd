@@ -25,7 +25,9 @@ about:
       href: https://orcid.org/0000-0002-5697-2074
 ---
 
-::: {#hero-heading}
-<div class="mt-5"></div>
-Kaan Sevim is an Assistant Professor of **Social Work** at Istanbul Sabahattin Zaim University. My competency areas include social work, migration, aging studies, and discrimination research, with a focus on the stigmatization and exclusion of migrants and older adults. I also serves as the Editor-in-Chief of the Turkish Journal of Social Work. [Learn more about me →](/about){.about-links .subtitle}
+:::: {#hero-heading}
+::: mt-5
 :::
+
+Kaan Sevim is an Assistant Professor of **Social Work** at Istanbul Sabahattin Zaim University. My competency areas include social work, migration, aging studies, and discrimination research, with a focus on the stigmatization and exclusion of migrants and older adults. I also serves as the Editor-in-Chief of the Turkish Journal of Social Work. [Learn more about me →](/about){.about-links .subtitle}
+::::
